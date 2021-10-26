@@ -19,12 +19,11 @@
 -   Emotey Discord Bot ( Mainging your guilds emotes has never been easier )
 -   Tuney Discord Bot ( A high quality music bot for you and others to jam out too )
 
-### ☕ Want to support us:
-- You can support us over on ko-fi 💖
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51ZW4N)
-
 ### 📧How to reach us
--   **email:** info@onlytunes.uk
--   **website:** https://onlytunes.uk
--   ![](https://gh-shield.onlytunes.uk/api/shield/402908830532501526?theme=discord)
--   ![](https://gh-shield.onlytunes.uk/api/shield/226453388039028736?theme=discord)
+
+|   Name    |    Discord    |    Email    |      Wakatime     |
+|:----------|:--------------|:------------|:------------------|
+|   Brayd   | ![](https://gh-shield.onlytunes.uk/api/shield/402908830532501526?theme=discord) | [brayd@onlytunes.uk](mailto:brayd@onlytunes.uk) | [![wakatime](https://wakatime.com/badge/user/c681d582-e69e-4f07-8509-1a7db5c8929d.svg)](https://wakatime.com/@c681d582-e69e-4f07-8509-1a7db5c8929d) |
+|   Cal     | ![](https://gh-shield.onlytunes.uk/api/shield/226453388039028736?theme=discord) | [caldeirag@caldeirag.xyz](mailto:caldeirag@caldeirag.xyz) | [![wakatime](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6.svg)](https://wakatime.com/@0c2eb4e9-64a3-4002-8eb0-dea543a982e6) |
+|   Kaňka.J | ![](https://gh-shield.onlytunes.uk/api/shield/161071543584030720?theme=discord) | [kanka@kankaj.cz](mailto:kanka@kankaj.cz) | [![wakatime](https://wakatime.com/badge/user/4a70bc4f-527b-496e-9acf-55c7bcab654a.svg)](https://wakatime.com/@4a70bc4f-527b-496e-9acf-55c7bcab654a) |
+
